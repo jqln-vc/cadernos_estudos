@@ -3,10 +3,11 @@ COM160: Estruturas de Dados
 
 Semana 1: Introdução ao C++
     - comandos básicos
+    - funções
 */
 
 #include <iostream>
-using namespace std; // para não precisar escrever std::cout ou std::cin
+using namespace std; // evita o uso repetitivo dos indicadores, como std::cout ou std::cin
 
 // FUNÇÕES
     /*
@@ -15,6 +16,7 @@ using namespace std; // para não precisar escrever std::cout ou std::cin
 
         PARÂMETRO POR REFERÊNCIA: recebe uma referência da variável,
         altera os valores originais
+            operador &: recebe o endereço da variável
     */
 
 // PARÂMETRO POR VALOR
