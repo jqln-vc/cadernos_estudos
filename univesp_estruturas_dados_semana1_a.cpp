@@ -6,7 +6,7 @@ Semana 1: Introdução ao C++
 */
 
 #include <iostream>
-using namespace std; // não precisar escrever std::cout ou std::cin
+using namespace std; // para não precisar escrever std::cout ou std::cin
 
 // FUNÇÕES
     /*
@@ -80,7 +80,7 @@ int main() {
     } while (valor >= 0);
 
     
-    float media = float(soma) /float((contador-1)); // subtrai-se 1 para não incluir a entrada que encerra o loop
+    float media = float(soma) /float((contador-1)); // subtrai-se 1 para não incluir no contador a entrada que encerra o loop
     cout << "A média é dos " << (contador-1) << "valores é : " << media << endl;
     
     // TESTE FUNÇÕES PARÂMETROS VALOR E REFERÊNCIA
