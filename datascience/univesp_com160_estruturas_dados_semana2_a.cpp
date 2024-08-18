@@ -7,13 +7,11 @@ Semana 2: As visões das estruturas de dados
         -: implementação: univesp_com160_estruturas_dados_semana2_a.cpp
         -: execução: com160_tempo_main.cpp
 
-        !comando de compilação (certificar de estar no folder)
-            ?g++ com160_tempo_main.cpp univesp_com160_estruturas_dados_semana2_a.cpp -o tempo
-        !execução após compilação
-            ?.\tempo
+        -: comando de compilação (certificar de estar no folder)
+            g++ com160_tempo_main.cpp univesp_com160_estruturas_dados_semana2_a.cpp -o tempo
+        -: execução após compilação
+            .\tempo
 */
-
-
 /*
     CLASSE
         -> encapsulamento de atributos estáticos e comportamentos dinâmicos
@@ -88,15 +86,15 @@ using namespace std;
 
 */
 
-// !construtor
+// construtor
 Tempo::Tempo(int h, int m, int s) : hora(h), minuto(m), segundo(s) {
   /*
-    ?O corpo do método executa após as inicializações. 
-    ?Neste caso, está vazio pois só as inicializações são necessárias.
+    O corpo do método executa após as inicializações. 
+    Neste caso, está vazio pois só as inicializações são necessárias.
    */
 }
 
-// !getters
+// getters
 int Tempo::getHora() const {
     return hora;
 }
@@ -107,7 +105,7 @@ int Tempo::getSegundo() const {
     return segundo;
 }
 
-// !setters
+// setters
 void Tempo::setHora(int hora) {
     this->hora = hora;
 }
@@ -118,12 +116,12 @@ void Tempo::setSegundo(int segundo) {
     this->segundo = segundo;
 }
 
-// !método print
+// método print
 void Tempo::print() const {
     cout << hora << ":" << minuto << ":" << segundo << endl;
 }
 
-// !método adicionaSegundo
+// método adicionaSegundo
 void Tempo::adicionaSegundo() {
     segundo += 1;
 
