@@ -4,11 +4,11 @@ COM160: Estruturas de Dados
 Semana 2: As visões das estruturas de dados
     -> Classes
         -: lógica (header): com160_tempo.h
-        -: implementação: univesp_com160_estruturas_dados_semana2_a.cpp
+        -: implementação: com160_estruturas_dados_semana2_a.cpp
         -: execução: com160_tempo_main.cpp
 
         -: comando de compilação (certificar de estar no folder)
-            g++ com160_tempo_main.cpp univesp_com160_estruturas_dados_semana2_a.cpp -o tempo
+            g++ com160_tempo_main.cpp com160_estruturas_dados_semana2_a.cpp -o tempo
         -: execução após compilação
             .\tempo
 */
