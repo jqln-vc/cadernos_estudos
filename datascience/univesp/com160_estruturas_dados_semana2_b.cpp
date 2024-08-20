@@ -4,11 +4,11 @@ COM160: Estruturas de Dados
 Semana 2: As visões das estruturas de dados
     -> Pilha (Pilha)
         -: lógica (header): com160_pilha.h
-        -: implementação: univesp_com160_estruturas_dados_semana2_b.cpp
+        -: implementação: com160_estruturas_dados_semana2_b.cpp
         -: execução: com160_pilha_main.cpp
 
         !comando de compilação (certificar de estar no folder)
-            ?g++ com160_pilha_main.cpp univesp_com160_estruturas_dados_semana2_b.cpp -o pilha
+            ?g++ com160_pilha_main.cpp com160_estruturas_dados_semana2_b.cpp -o pilha
         !execução após compilação
             ?.\pilha
 */
