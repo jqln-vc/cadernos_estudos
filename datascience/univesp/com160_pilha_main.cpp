@@ -18,6 +18,7 @@ Semana 2: As visões das estruturas de dados
     PILHA
         -> estrutra linear: somente um único PREDECESSOR e SUCESSOR
         -> INSERÇÃO e REMOÇÃO ocorrem no topo da pilha
+            -: estrutura de VETOR: TEMPO CONSTANTE
             -: PUSH: inserção
             -: POP: remoção
             -: sempre verificar se CHEIA ou VAZIA
