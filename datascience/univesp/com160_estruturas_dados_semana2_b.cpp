@@ -23,6 +23,11 @@ Semana 2: As visões das estruturas de dados
             -: sempre verificar se CHEIA ou VAZIA
         -> FILO: primeiro a entrar, último a sair
         -> LIFO: último a entrar, primeiro a sair
+        -> POSIÇÃO NO TOPO da pilha, depende do número de elementos da pilha 
+        -> UTILIDADES:
+            -: garante o alinhamento de componentes em processos
+            -: uso para chamada de funções em programas
+            -: análise de sintaxe de linguagens de programação, devido aos "escopos"
         
 */
 
