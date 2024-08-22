@@ -32,8 +32,8 @@ const int MAX_ITEMS = 100;
 
 class Pilha {
     public:
-        Pilha();   // !Construtor
-        ~Pilha();   // !Destrutor
+        Pilha();   // !Construtor: alocação
+        ~Pilha();   // !Destrutor: desalocação
 
         bool vazia() const; // !isEmpty
         bool cheia() const; // !isFull
@@ -54,7 +54,7 @@ using namespace std;
 
 // !IMPLEMENTAÇÃO
 
-// !construtor
+// !construtor: alocar
 Pilha::Pilha() {
   tamanho = 0;
   estrutura = new char[MAX_ITEMS];
