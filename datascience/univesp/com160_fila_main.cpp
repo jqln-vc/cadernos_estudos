@@ -18,6 +18,7 @@ Semana 2: As visões das estruturas de dados
     FILA
         -> estrutra linear: somente um único PREDECESSOR e SUCESSOR
         -> INSERÇÃO e REMOÇÃO 
+            -: estrutura de VETOR: TEMPO CONSTANTE
             -: Enfila / inserção: final da fila
             -: Defila / remoção: início da fila
         -> FIFO (First In First Out): primeiro a entrar, primeiro a sair
