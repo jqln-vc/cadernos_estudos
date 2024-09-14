@@ -9,15 +9,16 @@ Semana 1: Introdução ao C++
 #include <iostream>
 using namespace std; // evita o uso repetitivo dos indicadores, como std::cout ou std::cin
 
-// FUNÇÕES
-    /*
+/*
+
+    FUNÇÕES:
         PARÂMETRO POR VALOR: recebe uma cópia da variável,
         não altera os valores originais
 
         PARÂMETRO POR REFERÊNCIA: recebe uma referência da variável,
         altera os valores originais
             operador &: recebe o endereço da variável
-    */
+*/
 
 // PARÂMETRO POR VALOR
 
