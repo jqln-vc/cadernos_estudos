@@ -14,9 +14,9 @@
             -: execução: com160_arvore_busca_main.cpp
 
 
-            !comando de compilação (certificar de estar no folder)
+            -: comando de compilação (certificar-se de estar no folder)
                 g++ com160_estruturas_dados_semana5.cpp com160_arvore_busca_main.cpp -o arvore_busca
-            !execução após compilação
+            -: execução após compilação
                 .\arvore_busca
 */
 /*
