@@ -16,6 +16,7 @@ Exemplo:
 > [!NOTE]
 > Tudo aqui foi produzido para uso pessoal durante meus estudos. Então, é possível (e provável!)
 > que nem todos os códigos estejam otimizados, completos, funcionando e/ou escritos lindamente.
+> Aceito sugestões de melhorias! 💙
 
 ## DISCIPLINAS
 
@@ -26,6 +27,8 @@ Exemplo:
 [➡️](https://github.com/jqln-vc/cadernos_estudos/new/master/datascience/univesp#com210-sistemas-computacionais) COM210: Sistemas Computacionais
 
 
+
+------------------------------------------------------------------------------------------------------------------------------------
 
 ## PROGRAMA DETALHADO
 
