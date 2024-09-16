@@ -1,6 +1,14 @@
 /*
     COM160: Estruturas de Dados
 
+    Semana 4: Tabela Hash
+        -> 
+            -: lógica (header): 
+                L: classe Aluno: com160_aluno.h
+                L: classe Hash: com160_hash.h
+            -: implementação: com160_estruturas_dados_semana4_a.cpp
+            -: execução: com160_hash_main.cpp    
+
     Semana 5: Árvores Binárias de Busca
         -> 
             -: lógica (header): 
