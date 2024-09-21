@@ -22,7 +22,7 @@ Exemplo:
 
 [➡️](https://github.com/jqln-vc/cadernos_estudos/blob/master/datascience/univesp/README.md#com160-estruturas-de-dados) COM160: Estruturas de Dados
 
-[➡️]() COM200: Formação Profissional em Computação
+[➡️](https://github.com/jqln-vc/cadernos_estudos/blob/master/datascience/univesp/README.md#com200-forma%C3%A7%C3%A3o-profissional-em-computa%C3%A7%C3%A3o) COM200: Formação Profissional em Computação
 
 [➡️]() COM210: Sistemas Computacionais
 
