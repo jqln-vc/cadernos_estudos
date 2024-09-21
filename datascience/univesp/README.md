@@ -20,7 +20,7 @@ Exemplo:
 
 ## DISCIPLINAS
 
-[➡️]() COM160: Estruturas de Dados
+[➡️](https://github.com/jqln-vc/cadernos_estudos/blob/master/datascience/univesp/README.md#com160-estruturas-de-dados) COM160: Estruturas de Dados
 
 [➡️]() COM200: Formação Profissional em Computação
 
