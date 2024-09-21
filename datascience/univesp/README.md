@@ -24,7 +24,7 @@ Exemplo:
 
 [➡️](https://github.com/jqln-vc/cadernos_estudos/blob/master/datascience/univesp/README.md#com200-forma%C3%A7%C3%A3o-profissional-em-computa%C3%A7%C3%A3o) COM200: Formação Profissional em Computação
 
-[➡️]() COM210: Sistemas Computacionais
+[➡️](https://github.com/jqln-vc/cadernos_estudos/blob/master/datascience/univesp/README.md#com210-sistemas-computacionais) COM210: Sistemas Computacionais
 
 
 
