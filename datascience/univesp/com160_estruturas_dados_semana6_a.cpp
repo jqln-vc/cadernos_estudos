@@ -6,7 +6,7 @@
             -: lógica (header): 
                 L: classe Aluno: com160_aluno.h
                 L: classe Árvore AVL: com160_arvore_avl.h
-            -: implementação: com160_estruturas_dados_semana6.cpp
+            -: implementação: com160_estruturas_dados_semana6_a.cpp
             -: execução: com160_arvore_avl_main.cpp
 
 
