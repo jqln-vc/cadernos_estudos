@@ -2,7 +2,7 @@
     COM160: Estruturas de Dados
 
     Semana 6: Árvores AVL e Grafos
-
+      -> Árvore AVL
             -: lógica (header): 
                 L: classe Aluno: com160_aluno.h
                 L: classe Árvore AVL: com160_arvore_avl.h
@@ -11,7 +11,7 @@
 
 
             -: comando de compilação (certificar-se de estar no folder)
-                g++ com160_arvore_avl_main.cpp com160_estruturas_dados_semana6.cpp -o arvore_avl
+                g++ com160_arvore_avl_main.cpp com160_estruturas_dados_semana6_a.cpp -o arvore_avl
             -: execução após compilação
                 .\arvore_avl
 */
@@ -38,6 +38,26 @@
 
 
 #include "com160_arvore_avl.h"
+#include "com160_aluno.h"
+
+// IMPLEMENTAÇÃO CLASSE ALUNO
+
+Aluno::Aluno(){
+    this->ra   = -1;
+    this->nome = "";
+};  
+Aluno::Aluno(int ra, std::string nome){
+    this->ra    = ra;
+    this->nome  = nome;
+}
+string Aluno::getNome() const {
+    return nome;
+}
+int Aluno::getRa() const{
+    return ra;
+}
+
+// IMPLEMENTAÇÃO ÁRVORE AVL
 
 // retorna True se raiz é igual a NULL
 bool arvoreBuscaAVL::vazia() const {

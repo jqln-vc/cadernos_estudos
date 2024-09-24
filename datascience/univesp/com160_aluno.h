@@ -26,7 +26,8 @@
 #include <iostream>
 using namespace std;
 
-
+#ifndef COM160_ALUNO_H
+#define COM160_ALUNO_H
 class Aluno {
     private :
         int ra;
@@ -38,3 +39,4 @@ class Aluno {
         int getRa() const;
 };
 
+#endif // COM160_ALUNO_H
